@@ -28,5 +28,4 @@ I am a developer focused on architecting secure, scalable, and high-performance 
 * 📫 **LinkedIn:** [linkedin.com/in/anoop0](https://www.linkedin.com/in/anoop0)
 
 ![Anoop's GitHub stats](https://github-readme-stats.vercel.app/api?username=elvyn0&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elvyn0&layout=compact&theme=radical)ct: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elvyn0&layout=compact&theme=radical)
