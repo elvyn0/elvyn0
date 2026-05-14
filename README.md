@@ -51,13 +51,13 @@ A full stack travel platform combining social interaction with hotel booking fun
 - Admin dashboard with analytics
 - Responsive and optimized UI
 
-🔗 Live Demo: https://scenic-wonders.vercel.app  
-🔗 Portfolio: https://anoop-dev.vercel.app  
-🔗 GitHub: https://github.com/elvyn0
+🔗 Live Demo: [https://scenic-wonders.vercel.app](https://scenic-wonders.vercel.app)
+🔗 Portfolio: [https://anoop-dev.vercel.app ](https://anoop-portfolio-nine.vercel.app) 
+🔗 GitHub: [https://github.com/elvyn0](https://github.com/elvyn0)
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/anoop0
-- GitHub: https://github.com/elvyn0
+- LinkedIn: [https://linkedin.com/in/anoop0](https://linkedin.com/in/anoop0)
+- GitHub: [https://github.com/elvyn0](https://github.com/elvyn0)
