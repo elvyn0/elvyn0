@@ -1,31 +1,63 @@
 # Hi, I'm Anoop S 👋
 
-### Full-Stack Software Engineer | MERN Stack Specialist
-I am a developer focused on architecting secure, scalable, and high-performance web applications. I specialize in the **MERN stack**, real-time systems, and integrating AI into functional products.
+Full Stack Developer focused on building real-world web applications using the MERN stack.
+
+I transitioned from a commerce background into software development through self-directed learning and hands-on projects. I enjoy building complete systems — from frontend interfaces to backend APIs, authentication, real-time features, and deployment.
 
 ---
 
-### 🛠 Technical Stack
+## 🛠 Tech Stack
 
-* **Frontend:** React, Next.js, Tailwind CSS
-* **Backend:** Node.js, Express.js (MVC Architecture)
-* **Database:** MongoDB, Mongoose
-* **Real-Time & Security:** Socket.io, JWT Authentication, Stripe API
-* **DevOps:** Git, Vercel, Render
+### Frontend
+- React
+- Next.js
+- JavaScript (ES6+)
+- Tailwind CSS
+- HTML5 & CSS3
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+- MVC Architecture
+
+### Database & Authentication
+- MongoDB
+- Mongoose
+- JWT Authentication
+
+### Real-Time & Integrations
+- Socket.io
+- Stripe API
+- AI-powered features
+
+### Tools & Deployment
+- Git & GitHub
+- Postman
+- Vercel
+- Render
 
 ---
 
-### 🚀 Featured Project: Scenic Wonders
-**A full-scale travel ecosystem featuring real-time chat, secure payments, and AI-powered assistants.**
-* [Live Demo](https://scenic-wonders.vercel.app)
-* [Frontend Repo](https://github.com/elvyn0/scenic-wonders-frontend)
-* [Backend Repo](https://github.com/elvyn0/scenic-wonders-backend)
+## 🚀 Featured Project — Scenic Wonders
+
+A full stack travel platform combining social interaction with hotel booking functionality.
+
+### Highlights
+- Secure authentication and role-based access
+- Hotel booking and booking management system
+- Real-time user messaging
+- AI chat assistant integration
+- Admin dashboard with analytics
+- Responsive and optimized UI
+
+🔗 Live Demo: https://scenic-wonders.vercel.app  
+🔗 Portfolio: https://anoop-dev.vercel.app  
+🔗 GitHub: https://github.com/elvyn0
 
 ---
 
-### 📈 Stats & Connect
-* 💼 **Portfolio:** [anoop-portfolio-nine.vercel.app](https://anoop-portfolio-nine.vercel.app)
-* 📫 **LinkedIn:** [linkedin.com/in/anoop0](https://www.linkedin.com/in/anoop0)
+## 📫 Connect With Me
 
-![Anoop's GitHub stats](https://github-readme-stats.vercel.app/api?username=elvyn0&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elvyn0&layout=compact&theme=radical)
+- LinkedIn: https://linkedin.com/in/anoop0
+- GitHub: https://github.com/elvyn0
